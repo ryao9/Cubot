@@ -1,0 +1,23 @@
+Our water shader and material are adapted from “Toon Water Shader” tutorial, from the site  roystan.net. The project is open sourced at https://github.com/IronWarrior/ToonWaterShader, under the license that “Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.”
+
+Menu background music:https://opengameart.org/content/relaxed-robot-theme
+
+World 1 background music: https://opengameart.org/content/forest
+
+Cube rotate sound effect: http://soundbible.com/682-Swoosh-1.html
+
+Square pixel font: https://www.dafont.com/square-pixel7.font
+
+Teleport sound effect: https://opengameart.org/content/teleport
+
+Lock tile sound effect: https://freesound.org/people/SpaceJoe/sounds/342713/
+
+Log boot up sound effect: https://freesound.org/people/juskiddink/sounds/122683/
+
+Ending level music: https://opengameart.org/content/factory-ambiance
+
+Happy ending music: https://opengameart.org/content/the-end
+
+True ending music: https://opengameart.org/content/emotional-orchestral-music
+
+
